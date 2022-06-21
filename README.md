@@ -46,7 +46,10 @@
 ## ~~2. 猫影视TV~~
 [20220621 官方TG已公告，停止使用，停止维护]
 
+建议改用[BiuBiu影院](https://github.com/YuanHsing/freed/tree/master/BiuBiu)
+
 ![MaoTV](https://raw.githubusercontent.com/YuanHsing/freed/master/maotv20220621.png "MaoTV")
+
 <s>
 * 猫影视TV｜APP
   + https://github.com/catvod/CatVodTVSpider
