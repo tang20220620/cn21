@@ -149,6 +149,9 @@ ___
   + [源仓库](http://yck.mumuceo.com/yuedu/shuyuan/index.html)
   + [喵公子书源管理](http://yuedu.miaogongzi.net/gx.html)
 
+* 开源阅读📖｜基础使用教程
+  * [视频列表](https://space.bilibili.com/188144093/channel/collectiondetail?sid=384695&ctype=0)
+
 
 ## 2. 香色闺阁
 * ios版～支持书源导入～无广告、无内购
